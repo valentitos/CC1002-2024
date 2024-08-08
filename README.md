@@ -9,7 +9,7 @@
 
 | N°    | Clase                                                | Capítulos Apunte | Link Github | Link Colab |
 |-------|------------------------------------------------------|------------------|-------------|------------|
-| 01    | Expresiones y Variables (y Programas Interactivos)   | Cap. 1 y 4.3     |             |            |
+| 01    | Expresiones y Variables (y Programas Interactivos)   | Cap. 1 y 4.3     | [Clase 01](/Clases/Clase_01_Expresiones_y_Variables/Clase01_Expresiones_y_Variables.ipynb)            | <a href="https://colab.research.google.com/github/valentitos/CC1002-2024/blob/main/Clases/Clase_01_Expresiones_y_Variables/Clase01_Expresiones_y_Variables.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>             |
 | 02    | Funciones y Receta de Diseño                         | Cap. 2 y 3       |             |            |
 | 03    | Módulos                                              | Cap. 4           |             |            |
 | 04    | Condicionales                                        | Cap. 5           |             |            |
