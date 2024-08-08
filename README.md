@@ -1,7 +1,11 @@
 # CC1002-2024
- Jupyter notebooks asociados a las clases de CC1002 - 2024
+Jupyter notebooks asociados a las clases de CC1002 - 2024.
 
+- Pueden abrir directamente estos notebooks en Github para mirarlos, o en Colab para mirarlos, editarlos y ejecutarlos.
 
+- Se recomienda que vayan ejecutando las celdas de cada notebook, para que vean el resultado entregado por Python.
+
+- En material docente de Ucursos, pueden encontrar la versión .PDF de estos notebooks.
 
 ## Clases
 
